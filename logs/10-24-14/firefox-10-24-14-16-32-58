@@ -1,0 +1,16 @@
+# Logfile created on 2014-10-24 16:32:58 +0530 by logger.rb/31641
+I, [2014-10-24T16:32:58.798299 #25032]  INFO -- : Starting the browser: firefox
+I, [2014-10-24T16:33:12.141701 #25032]  INFO -- : Setting the screen window size to: 1280x1024
+I, [2014-10-24T16:33:12.176727 #25032]  INFO -- : Moving the browser to: 0, 0
+I, [2014-10-24T16:33:12.188736 #25032]  INFO -- : Deleting the firefox browser cookies
+I, [2014-10-24T16:33:12.200777 #25032]  INFO -- : Setting the selenium timeout to: 20
+I, [2014-10-24T16:33:12.268777 #25032]  INFO -- : Deleting the firefox browser cookies
+D, [2014-10-24T16:33:22.605879 #25032] DEBUG -- : Creating new element: google_search_input
+D, [2014-10-24T16:33:22.606897 #25032] DEBUG -- : Finding the google_search_input element using css and input[id="gbqfq"]
+D, [2014-10-24T16:33:23.150996 #25032] DEBUG -- : Verifying the google_search_input element
+I, [2014-10-24T16:33:23.177967 #25032]  INFO -- : Sending google_search_input element text: Qwinix Technologies
+D, [2014-10-24T16:33:23.765040 #25032] DEBUG -- : Pressing enter google_search_input element
+D, [2014-10-24T16:33:25.359703 #25032] DEBUG -- : Creating new element: search_results_container
+D, [2014-10-24T16:33:25.359703 #25032] DEBUG -- : Finding the search_results_container element using css and div[id="search"]
+D, [2014-10-24T16:33:25.824817 #25032] DEBUG -- : Verifying the search_results_container element
+I, [2014-10-24T16:33:25.848783 #25032]  INFO -- : Quiting the browser at: 10-24-14-16-33-25

@@ -1,0 +1,5 @@
+test:
+ feature_order: ['features/google_search.feature']
+ runtime_defaults:
+  controller: 'firefox'
+ defaults: ['--format pretty', '-P -s']
